@@ -1,0 +1,5 @@
+# Files not necessary to run app
+*.jpeg
+*.jpg
+*.png
+cnn_model.py
