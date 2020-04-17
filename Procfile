@@ -1,0 +1,1 @@
+web: gunicorn X_Ray_Project.wsgi
